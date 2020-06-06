@@ -9,4 +9,4 @@ It was done in collaboration with my lab mate [Elena Ouro](https://github.com/el
 
 We designed and implemented a graph like the figure above. We prepared and loaded a combination of real and synthetic data (see [notebooks](/notebooks)). We also run some Cypher queries on the database (calculate h-index, journal impact factor, etc) and built a simple recommender system based on pagerank for recommending reviewers for articles of the database community (see [scripts](/scripts)).
 
-Check my [blog post](http://localhost:1313/posts/neo4j-recommender) for more details.
+Check my [blog post](http://iprapas.github.io/posts/neo4j-recommender) for more details.
